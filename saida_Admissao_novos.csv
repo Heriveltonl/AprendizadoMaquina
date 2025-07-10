@@ -1,0 +1,4 @@
+"","GRE.Score","TOEFL.Score","University.Rating","SOP","LOR","CGPA","Research","predicoes.rf_cv_novos"
+"1",300,100,3,2,4,5.3,0,0.52
+"2",250,120,4,3,6.8,7.2,1,0.64
+"3",350,110,4.5,5.8,6.1,1,1,0.76
